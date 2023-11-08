@@ -1,9 +1,9 @@
 # SSP-2023
 Sieci Sterowane Programowo – Projekt 2023 Zapewnianie jakości obsługi pewnego (wybranego) rodzaju ruchu
 Harmonogram
-» 12.10.2023: intro
-» 19.10.2023: tematyka, literatura – konsultacje
-» 26.10.2023: dyskusja w grupach
+12.10.2023: intro
+19.10.2023: tematyka, literatura – konsultacje
+26.10.2023: dyskusja w grupach
 » 9.11.2023: konsultacje
 » 16.11.2023: topologia, implementacja – konsultacje
 » 23.11.2023: dyskusja w grupach
