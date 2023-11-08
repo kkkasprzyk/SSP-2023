@@ -14,3 +14,7 @@ Twórcy:
 3. Rafał Piwowarczyk 
 4. Bartosz Jatczyszyn 
 5. Krzysztof Pałka
+
+Topologia:
+![image](https://github.com/kkkasprzyk/SSP-2023/assets/31936126/8fdbafe8-1718-4af7-bfe7-aaa3768cf3be)
+
