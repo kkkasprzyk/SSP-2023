@@ -17,3 +17,6 @@ Literatura:
 3. https://ieeexplore.ieee.org/document/8191068
 4. https://ieeexplore.ieee.org/document/1209093
 5. Wykłady z przedmiotu Jakość obsługi w Sieciach
+
+Generowanie ruchu:
+Podejmowaliśmy próby wykorzystania minigenerator w naszym projekcie,jedmak pojawiały się ciągłe problemy z pythonem na floodlight. W związku z czym zdecydowaliśmy się na użycie iperfa do generowania ruchu.
