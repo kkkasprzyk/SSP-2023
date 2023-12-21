@@ -20,3 +20,6 @@ Literatura:
 
 Generowanie ruchu:
 Podejmowaliśmy próby wykorzystania minigenerator w naszym projekcie,jedmak pojawiały się ciągłe problemy z pythonem na floodlight. W związku z czym zdecydowaliśmy się na użycie iperfa do generowania ruchu.
+
+Wstępny schemat działania algorytmu :
+![Drawing4](https://github.com/kkkasprzyk/SSP-2023/assets/56090710/fb2b515b-e6ec-41c1-a57f-af2e442f69f2)
